@@ -22,7 +22,7 @@
 <div>
 <a href="https://www.instagram.com/pasolini_sss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo-instagram&logoColor=white"
 target="_blank"></a>
-<a href="https://discord.com/pasolini_32462" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+<a href="pasolini_32462" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
 target="_blank"></a>
 <a href="https://www.linkedin.com/in/sara-pasolini-230b93246/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 target="_blank"></a>
