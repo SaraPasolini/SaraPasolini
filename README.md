@@ -24,6 +24,6 @@
 target="_blank"></a>
 <a href="https://www.linkedin.com/in/sara-pasolini-230b93246/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 target="_blank"></a>
-<a href="https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+<a href="mailto:saraalmeida3606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 target="_blank"></a>
 </div>
