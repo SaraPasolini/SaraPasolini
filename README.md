@@ -16,7 +16,7 @@
 <img align="center" alt="Pasolini-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="center" alt="Pasolini-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="Pasolini-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="right" alt="Sara" src="https://i.picasion.com/pic92/047e492a00ae9bce0de3e001f1400853.gif">
+<img align="right"  alt="Sara" width="170" src="https://i.picasion.com/pic92/047e492a00ae9bce0de3e001f1400853.gif">
 </div>
           
 ##
