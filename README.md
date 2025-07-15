@@ -1,4 +1,4 @@
-## Olá , sou a Sara Pasolini 🌸
+# Olá , sou a Sara Pasolini 🌸 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,7 +19,10 @@
 <img align="right"  alt="Sara" width="170" src="https://i.picasion.com/pic92/047e492a00ae9bce0de3e001f1400853.gif">
 </div>
           
-##
+<hr>
+
+📩Você pode me encontrar aqui📩
+
 <div>
 <a href="https://www.instagram.com/pasolini_sss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo-instagram&logoColor=white"
 target="_blank"></a>
@@ -27,6 +30,17 @@ target="_blank"></a>
 target="_blank"></a>
 <a href="mailto:saraalmeida3606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 target="_blank"></a>
+
+  
+- 🔎 Iniciação Científica : ODS 4 "Educação inclusiva e equitativa de qualidade."
+  
+- ♀️ Aluna Extensionista do projeto :  <a href="https://github.com/Elas-PUC-Minas" target="_blank"><img  src="https://meninas.sbc.org.br/wp-content/uploads/2024/06/Logo-Projeto-Elas.png" align="center" width="70" ></a>
+
+
+- 🎯 "Quanto mais estudo, mais sinto que minha mente nisso é insaciável" - Ada Lovelace
+
+
+  
 </div>
 
 <picture>
