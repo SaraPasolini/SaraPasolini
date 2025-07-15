@@ -29,4 +29,7 @@ target="_blank"></a>
 target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/SaraPasolini/SaraPasolini/blob/output/github-contribution-grid-snake.svg)
+
+
 
