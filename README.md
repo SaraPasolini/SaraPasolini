@@ -14,11 +14,26 @@
 <img align="center" alt="Pasolini-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" alt="Pasolini-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" alt="Pasolini-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="center" alt="Pasolini-Tawilid" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="center" alt="Pasolini-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="Pasolini-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="right"  alt="icon-AdaLovelace" width="170" src="https://www.historyofdatascience.com/wp-content/uploads/2021/06/LOVELACE-Ada.png">
+<img align="center" alt="Pasolini-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<img align="center" alt="Pasolini-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="center" alt="Pasolini-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="center" alt="Pasolini-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+<img align="center" alt="Pasolini-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="center" alt="Pasolini-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="right"  alt="icon-AdaLovelace" width="250" src="https://www.historyofdatascience.com/wp-content/uploads/2021/06/LOVELACE-Ada.png">
+
 </div>
-          
+
+<hr>
+<div style="display: inline_block"><br>
+<img align="center" alt="Embaixadora" height="80" width="200" src="https://cdn.discordapp.com/attachments/1442243864319623382/1448687361532756229/Logo_-_Programa_de_Uni..png?ex=693c2abe&is=693ad93e&hm=53462d070193aafe0afc30c521470b12f92aff939796c9a214a393097c66205c" />
+<img align="center" alt="Womakerscode" height="200" width="200" src="https://womakerscode.org/wp-content/uploads/2023/07/ong-womakerscode-thumb.png" />
+<img align="center" alt="MeninasDigitais" height="80" width="200" src="https://media.discordapp.net/attachments/1442243864319623382/1448691600942170235/image.png?ex=693c2eb1&is=693add31&hm=5244636d303daf08cd0c74d074fa2de91d0a337eaa43be41dfffcb31ee146ce5&=&format=webp&quality=lossless&width=864&height=299" />
+<img align="center" alt="PucMinas" height="200" width="90" src="https://www.pucminas.br/institucional/PublishingImages/Paginas/brasao/brasao-pucminas-versao-2025.png" />
+</div>          
 <hr>
 
 📩 Você pode me encontrar aqui 📩
@@ -35,6 +50,8 @@ target="_blank"></a>
 - 🔎 Iniciação Científica : ODS 4 "Educação inclusiva e equitativa de qualidade."
   
 - ♀️ Aluna Extensionista do projeto :  <a href="https://github.com/Elas-PUC-Minas" target="_blank"><img  src="https://meninas.sbc.org.br/wp-content/uploads/2024/06/Logo-Projeto-Elas.png" align="center" width="70" ></a>
+
+- 🦋 Embaixadora Universitária da Womakerscode 
 
 
 - 🎯 "Quanto mais estudo, mais sinto que minha mente nisso é insaciável" - Ada Lovelace
