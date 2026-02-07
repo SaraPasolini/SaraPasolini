@@ -33,6 +33,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Womakerscode" height="200" width="200" src="https://womakerscode.org/wp-content/uploads/2023/07/ong-womakerscode-thumb.png" />
 <img align="center" alt="PucMinas" height="200" width="90" src="https://www.pucminas.br/institucional/PublishingImages/Paginas/brasao/brasao-pucminas-versao-2025.png" />
+<img align="center" alt="MeninasDigitais" height="200" width="300"  src="https://www.es.gov.br/Media/PortalES/Noticias/Logo-MeninasDigitais.png" />
 </div>          
 <hr>
 
