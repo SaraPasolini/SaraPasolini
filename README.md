@@ -31,9 +31,7 @@
 
 <hr>
 <div style="display: inline_block"><br>
-<img align="center" alt="Embaixadora" height="80" width="200" src="https://cdn.discordapp.com/attachments/1442243864319623382/1448687361532756229/Logo_-_Programa_de_Uni..png?ex=693c2abe&is=693ad93e&hm=53462d070193aafe0afc30c521470b12f92aff939796c9a214a393097c66205c" />
 <img align="center" alt="Womakerscode" height="200" width="200" src="https://womakerscode.org/wp-content/uploads/2023/07/ong-womakerscode-thumb.png" />
-<img align="center" alt="MeninasDigitais" height="80" width="200" src="https://media.discordapp.net/attachments/1442243864319623382/1448691600942170235/image.png?ex=693c2eb1&is=693add31&hm=5244636d303daf08cd0c74d074fa2de91d0a337eaa43be41dfffcb31ee146ce5&=&format=webp&quality=lossless&width=864&height=299" />
 <img align="center" alt="PucMinas" height="200" width="90" src="https://www.pucminas.br/institucional/PublishingImages/Paginas/brasao/brasao-pucminas-versao-2025.png" />
 </div>          
 <hr>
