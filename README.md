@@ -2,8 +2,8 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api?username=SaraPasolini&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+ <img height="200" align="center"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaraPasolini&show_icons=true&theme=omni" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
